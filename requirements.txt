@@ -1,0 +1,7 @@
+streamlit>=1.40
+transformers>=4.46
+accelerate>=1.0
+safetensors>=0.4
+pillow>=10.0
+pyttsx3>=2.90
+numpy>=1.26
